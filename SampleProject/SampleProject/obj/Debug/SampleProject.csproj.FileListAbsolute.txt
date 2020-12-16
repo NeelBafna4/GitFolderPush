@@ -1,0 +1,7 @@
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\SampleProject\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+D:\LTI\Training\Day 32 (16-12-2020) DevOps\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
